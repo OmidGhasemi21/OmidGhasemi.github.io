@@ -1,1 +1,34 @@
-/* css styles */
+.quarto-title-block .subtitle {
+  text-align: center;
+}
+
+.contact-email a {
+  color: #1a73e8;  /* nice academic blue */
+  text-decoration: none;
+}
+
+.contact-email a:hover {
+  text-decoration: underline;
+}
+
+/* for the line below the title
+@keyframes revealLine {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.quarto-title-block::after {
+  content: "";
+  display: block;
+  height: 1px;
+  width: 0;
+  margin: 20px auto;
+  background: black;
+  animation: revealLine 1s ease-out forwards;
+}
+
+*/

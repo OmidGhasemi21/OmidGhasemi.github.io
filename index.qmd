@@ -1,18 +1,34 @@
 ---
 title: "Omid Ghasemi"
+subtitle: "Postdoctoral Researcher<br>UNSW Institute for Climate Risk & Response<br>University of New South Wales"
 about:
   template: jolla
+
   image: images/headshot.png
   links:
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/OmidGhasemi21
+      target: "_blank"
+    - icon: google
+      text: Google Scholar
+      href: "https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en"
+      target: "_blank"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/omid-ghasemi-a55584338/"
+      target: "_blank"
+    - icon: globe
+      text: OSF
+      href: "https://osf.io/kxf7p/"
+      target: "_blank"
+    - icon: mortarboard
+      text: UNSW
+      href: "https://www.unsw.edu.au/staff/omid-ghasemi"
+      target: "_blank"
 ---
 
-## Education
+I am a behavioural scientist interested in judgment and decision-making, risk perception, and climate change. My research examines how people understand and respond to complex information, especially in contexts involving uncertainty, environmental risk, and public policy.
 
-Degree, School \| Year
+My work combines behavioural experiments, large-scale surveys, longitudinal data, and statistical modelling to study how people form beliefs, make decisions, and respond to risk.
 
-Degree, School \| Year
-
-Degree, School \| Year

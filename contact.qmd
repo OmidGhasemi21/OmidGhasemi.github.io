@@ -1,0 +1,20 @@
+---
+title: "Contact"
+---
+
+## Get in touch
+
+For general inquiries, research collaborations, media requests, consultation, or guest lecturing, you can email me at 
+<span class="contact-email">
+  <a href="mailto:omidreza.ghasemi21@gmail.com" target="_blank">
+  omidreza.ghasemi21@gmail.com
+</a>
+</span>
+
+You can also find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/omid-ghasemi-a55584338/)
+- [Google Scholar](https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en)
+- [OSF](https://osf.io/kxf7p/)
+- [X (Twitter)](https://x.com/Omid_Ghasemi21)
+- [Bluesky](https://bsky.app/profile/omidghasemi.bsky.social)
