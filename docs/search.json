@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "A list of my publications"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "Omid Ghasemi",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Degree, School | Year\nDegree, School | Year\nDegree, School | Year"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Omid Ghasemi",
+    "section": "",
+    "text": "Degree, School | Year\nDegree, School | Year\nDegree, School | Year"
   }
 ]
