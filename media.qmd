@@ -1,0 +1,89 @@
+---
+title: "Media"
+---
+
+## Articles and interviews
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+
+[![](https://images.theconversation.com/files/668618/original/file-20250519-56-sa11bl.jpg?ixlib=rb-4.1.0&rect=128%2C0%2C3840%2C2160&q=45&auto=format&w=1000&fit=clip)](https://images.theconversation.com/files/668618/original/file-20250519-56-sa11bl.jpg?ixlib=rb-4.1.0&rect=128%2C0%2C3840%2C2160&q=45&auto=format&w=1000&fit=clip){target="_blank"}
+
+### [Climate scientists are trusted globally, just not as much as other scientists](https://theconversation.com/climate-scientists-are-trusted-globally-just-not-as-much-as-other-scientists-heres-why-256441){target="_blank"}
+
+The Conversation  
+May 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+[![](images/media/conversation-extreme-weather.png)](LINK_HERE){target="_blank"}
+
+### [Experiencing extreme weather and disasters is not enough to change views on climate action](https://theconversation.com/experiencing-extreme-weather-and-disasters-is-not-enough-to-change-views-on-climate-action-study-shows-260308){target="_blank"}
+
+The Conversation  
+July 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+[![](https://csiro.silverchair-cdn.com/csiro/content_public/cms/news/2511/gettyimages-1181120862.jpg?Expires=2147483647&Signature=KtLAh39GUw0kjvPKloGr4DupEX3WgLZ3AhI~k65NLaxqiATJx8~ZMJjIYWaSDQvzOsPvvsMxkgum06B-CVK17cnzP3MdLLBDZ1vgIWayxbCb4bKa8N-rTCVXccSXSMjVZtD9tbzxEB4itmHRIzAj4nTP8qTXaOTXBhOukTL15utD6cSIC7jl0FDoXprIQDV5~gJMTUVoqwCx-DcIq0YwuL99OHOuciSPXDSG3hJ2gZYakAwPjX7qF2YzRdu~35wupU-rwxqJHM9CjXKv-Bxo3Uw9oSbkOdBQKH8IDpc-mTORUXwYII~EtQk6fxdQh0FLSHmnZ6MQVonvDi9emlpRBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://csiro.silverchair-cdn.com/csiro/content_public/cms/news/2511/gettyimages-1181120862.jpg?Expires=2147483647&Signature=KtLAh39GUw0kjvPKloGr4DupEX3WgLZ3AhI~k65NLaxqiATJx8~ZMJjIYWaSDQvzOsPvvsMxkgum06B-CVK17cnzP3MdLLBDZ1vgIWayxbCb4bKa8N-rTCVXccSXSMjVZtD9tbzxEB4itmHRIzAj4nTP8qTXaOTXBhOukTL15utD6cSIC7jl0FDoXprIQDV5~gJMTUVoqwCx-DcIq0YwuL99OHOuciSPXDSG3hJ2gZYakAwPjX7qF2YzRdu~35wupU-rwxqJHM9CjXKv-Bxo3Uw9oSbkOdBQKH8IDpc-mTORUXwYII~EtQk6fxdQh0FLSHmnZ6MQVonvDi9emlpRBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){target="_blank"}
+
+### [How political discourse impacts on trust in science](https://connectsci.au/news/news-parent/2511/How-political-discourse-impacts-on-trust-in?searchresult=1){target="_blank"}
+
+Cosmos Australia  
+May 2025
+:::
+:::
+
+:::
+
+## Media coverage of my research
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+
+[![](https://images.theconversation.com/files/668618/original/file-20250519-56-sa11bl.jpg?ixlib=rb-4.1.0&rect=128%2C0%2C3840%2C2160&q=45&auto=format&w=1000&fit=clip)](https://images.theconversation.com/files/668618/original/file-20250519-56-sa11bl.jpg?ixlib=rb-4.1.0&rect=128%2C0%2C3840%2C2160&q=45&auto=format&w=1000&fit=clip){target="_blank"}
+
+### [Climate scientists are trusted globally, just not as much as other scientists](https://theconversation.com/climate-scientists-are-trusted-globally-just-not-as-much-as-other-scientists-heres-why-256441){target="_blank"}
+
+The Conversation  
+May 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+[![](images/media/conversation-extreme-weather.png)](LINK_HERE){target="_blank"}
+
+### [Experiencing extreme weather and disasters is not enough to change views on climate action](https://theconversation.com/experiencing-extreme-weather-and-disasters-is-not-enough-to-change-views-on-climate-action-study-shows-260308){target="_blank"}
+
+The Conversation  
+July 2025
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.media-card}
+[![](https://csiro.silverchair-cdn.com/csiro/content_public/cms/news/2511/gettyimages-1181120862.jpg?Expires=2147483647&Signature=KtLAh39GUw0kjvPKloGr4DupEX3WgLZ3AhI~k65NLaxqiATJx8~ZMJjIYWaSDQvzOsPvvsMxkgum06B-CVK17cnzP3MdLLBDZ1vgIWayxbCb4bKa8N-rTCVXccSXSMjVZtD9tbzxEB4itmHRIzAj4nTP8qTXaOTXBhOukTL15utD6cSIC7jl0FDoXprIQDV5~gJMTUVoqwCx-DcIq0YwuL99OHOuciSPXDSG3hJ2gZYakAwPjX7qF2YzRdu~35wupU-rwxqJHM9CjXKv-Bxo3Uw9oSbkOdBQKH8IDpc-mTORUXwYII~EtQk6fxdQh0FLSHmnZ6MQVonvDi9emlpRBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://csiro.silverchair-cdn.com/csiro/content_public/cms/news/2511/gettyimages-1181120862.jpg?Expires=2147483647&Signature=KtLAh39GUw0kjvPKloGr4DupEX3WgLZ3AhI~k65NLaxqiATJx8~ZMJjIYWaSDQvzOsPvvsMxkgum06B-CVK17cnzP3MdLLBDZ1vgIWayxbCb4bKa8N-rTCVXccSXSMjVZtD9tbzxEB4itmHRIzAj4nTP8qTXaOTXBhOukTL15utD6cSIC7jl0FDoXprIQDV5~gJMTUVoqwCx-DcIq0YwuL99OHOuciSPXDSG3hJ2gZYakAwPjX7qF2YzRdu~35wupU-rwxqJHM9CjXKv-Bxo3Uw9oSbkOdBQKH8IDpc-mTORUXwYII~EtQk6fxdQh0FLSHmnZ6MQVonvDi9emlpRBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){target="_blank"}
+
+### [How political discourse impacts on trust in science](https://connectsci.au/news/news-parent/2511/How-political-discourse-impacts-on-trust-in?searchresult=1){target="_blank"}
+
+Cosmos Australia  
+May 2025
+:::
+:::
+
+:::
+
+
+:::
+
+
+

@@ -4,18 +4,54 @@ project:
 
 website:
   title: "Omid Ghasemi"
+  favicon: images/favicon.png
+  google-analytics: "G-4R2R0VNNTY"
+  
+  
   navbar:
+    background: primary
+    search: true
+    
+    
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+      #  text: " "
+      #  icon: house-door-fill
       - research.qmd
+      - media.qmd
       - contact.qmd
+      
+    right: 
+      - icon: envelope
+        href: "mailto:omidreza.ghasemi21@gmail.com"
+        target: "_blank"
+        
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0001-7511-5580
+        target: _blank
+        
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/omid-ghasemi-a55584338/"
+        target: "_blank"
+        
+        
+      - text: "{{< ai google-scholar size=large >}}"
+        href: "https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en"
+        target: "_blank"
+      
+      - icon: bi-twitter-x
+        href: "https://x.com/Omid_Ghasemi21"
+        target: "_blank"
 
 format:
   html:
-    theme: cosmo
+    #theme: cosmo
     css: styles.css
     toc: true
+    theme:
+      light: flatly
+      dark: darkly
+    theme-toggle: true
 
 editor: visual
 

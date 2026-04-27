@@ -1,34 +1,35 @@
 ---
 title: "Omid Ghasemi"
-subtitle: "Postdoctoral Researcher<br>UNSW Institute for Climate Risk & Response<br>University of New South Wales"
+subtitle: "Lecturer<br>UNSW Institute for Climate Risk & Response<br>University of New South Wales"
 about:
   template: jolla
-
-  image: images/headshot.png
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/OmidGhasemi21
-      target: "_blank"
-    - icon: google
-      text: Google Scholar
-      href: "https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en"
-      target: "_blank"
-    - icon: linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/omid-ghasemi-a55584338/"
-      target: "_blank"
-    - icon: globe
-      text: OSF
-      href: "https://osf.io/kxf7p/"
-      target: "_blank"
-    - icon: mortarboard
-      text: UNSW
-      href: "https://www.unsw.edu.au/staff/omid-ghasemi"
-      target: "_blank"
+  image: images/headshots/headshot.png
+# title-block-banner: "#CF4446"
+# format:
+#   html:
+#     quarto-template-params:
+#       banner-header-class: "home"
 ---
+<!-- 
+::: {.full-width}
 
-I am a behavioural scientist interested in judgment and decision-making, risk perception, and climate change. My research examines how people understand and respond to complex information, especially in contexts involving uncertainty, environmental risk, and public policy.
+::: {.grid .align-items-center}
 
-My work combines behavioural experiments, large-scale surveys, longitudinal data, and statistical modelling to study how people form beliefs, make decisions, and respond to risk.
+::: {.g-col-12 .g-col-md-5}
+![](images/headshot.png){.img-fluid style="border-radius: 6px; width: 100%;"}
+:::
 
+::: {.g-col-12 .g-col-md-7 style="text-align: left; font-size: 1.1em; line-height: 1.6;"}
+-->
+I am a Lecturer at the [UNSW Institute for Climate Risk & Response (ICRR)](https://www.unsw.edu.au/research/icrr) at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/staff/omid-ghasemi). I am a behavioural scientist studying how people reason, form beliefs, and make decisions in complex, real-world contexts.
+
+My work focuses on judgment and decision-making, with applications in climate change, public policy, and science communication. I’m particularly interested in how people interpret information about risks and policies, how experiences shape beliefs, and why gaps often emerge between expert assessments and public perceptions.
+
+I use behavioural experiments, large-scale surveys, and longitudinal data, often combined with real-world datasets, to better understand how people think and act outside the lab.
+<!-- 
+:::
+
+:::
+
+:::
+-->

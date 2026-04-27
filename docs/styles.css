@@ -1,7 +1,11 @@
+
+/* center the subtitle (affiliation) */
 .quarto-title-block .subtitle {
   text-align: center;
 }
 
+
+/* color the email address */
 .contact-email a {
   color: #1a73e8;  /* nice academic blue */
   text-decoration: none;
@@ -10,6 +14,28 @@
 .contact-email a:hover {
   text-decoration: underline;
 }
+
+.navbar {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  min-height: 40px;
+}
+
+/* edit the index page, image, and columns of texts */
+/*
+img {
+  max-width: 100%;
+}
+
+.grid {
+  margin-top: 0px;
+}
+
+.g-col-md-4 {
+  padding-right: 10px;
+}
+*/
+
 
 /* for the line below the title
 @keyframes revealLine {
