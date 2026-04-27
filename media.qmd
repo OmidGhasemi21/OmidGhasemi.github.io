@@ -60,7 +60,7 @@ October 2025
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: media-card
-[![](images/media/where-climate-scientists-are-less-trusted.png)](LINK_TO_ARTICLE)
+[![](images/media/where-climate-scientists-are-less-trusted.png)](https://news.unsw.edu.au/en/most-people-trust-climate-scientists-less-than-other-scientists-but-not-everywhere)
 
 ### [Most people trust climate scientists less than other scientists – but not everywhere](https://news.unsw.edu.au/en/most-people-trust-climate-scientists-less-than-other-scientists-but-not-everywhere){target="_blank"}
 
@@ -71,7 +71,7 @@ July 2025
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: media-card
-[![](https://www.science.org/do/10.1126/science.ztwk50v/full/_112624_on_climatescientists.jpg)](https://www.science.org/do/10.1126/science.ztwk50v/full/_112624_on_climatescientists.jpg)
+[![](images/media/sci_mag_tisp.jpg)](https://www.science.org/content/article/people-all-over-trust-climate-researchers-less-scientists-general)
 
 ### [People all over trust climate researchers less than scientists in general](https://www.science.org/content/article/people-all-over-trust-climate-researchers-less-scientists-general){target="_blank"}
 
