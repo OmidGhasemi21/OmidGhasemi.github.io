@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Omid Ghasemi"
-  favicon: images/favicon.png
+  favicon: images/icons/favicon.png
   google-analytics: "G-4R2R0VNNTY"
   
   
@@ -18,8 +18,10 @@ website:
       #  text: " "
       #  icon: house-door-fill
       - research.qmd
+      - grants.qmd
       - media.qmd
       - contact.qmd
+
       
     right: 
       - icon: envelope
