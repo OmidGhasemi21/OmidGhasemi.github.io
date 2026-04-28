@@ -35,11 +35,12 @@ $2,000
 $3,000
 :::
 
-::: {.g-col-12 .g-col-md-6}
-**2020 · COS-SCORE Data Finder Award**  
-$2,000
-:::
 
+
+::: {.g-col-12 .g-col-md-6}
+**2020 · Gorilla Grant Award** 
+$225
+:::
 
 
 ## <i class="bi bi-trophy"></i> Awards and honours
@@ -98,7 +99,7 @@ $500
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2020 · Gorilla Grant Award** 
-$225
+**2020 · COS-SCORE Data Finder Award**  
+$2,000
 :::
 
