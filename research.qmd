@@ -1,10 +1,11 @@
 ---
 title: "Research"
+title-block-banner: true
 ---
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-## Publications
+## <i class="bi bi-book"></i> Publications
 
 ### Working papers
 
@@ -12,7 +13,7 @@ title: "Research"
 
 **Ghasemi, O.**, Ghane-Ezabadi, A., Hojjat, R., Afshin Mahjoub, M., Arastouy Irani, T., Gholampour, E., Solhirad, M., & Newell, B. (under review). People are aware of the impact of defaults and use them strategically. [Link](link){target="_blank"}
 
-**Ghasemi, O.**, & Newell, B. (under review). Evaluating the impact of climate risk scores on property purchase decisions. [Link](link){target="_blank"}
+**Ghasemi, O.**, & Newell, B. (in preparation). Evaluating the impact of climate risk scores on property purchase decisions. [Link](link){target="_blank"}
 
 Stanley, S., Kirkland, K., Karl, J., **Ghasemi, O.**, et al. (under review). Validating the Climate Policy Support Scale in 63 countries and examining responses across political divides. [Link](link){target="_blank"}
 
@@ -110,7 +111,7 @@ Amirbeigi, M., Sarafraz, M. R., **Ghasemi, O.**, & Firouzabadi, A. (2021). The m
 
 ---
 
-## Talks, keynotes, and presentations
+## <i class="bi bi-mic"></i> Talks, keynotes, and presentations
 
 Understanding how people respond to climate risks in the real world. Online seminar hosted by the Institute for the Public Understanding of Risk (IPUR), National University of Singapore.
 

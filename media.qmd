@@ -1,10 +1,9 @@
 ---
 title: "Media"
+title-block-banner: true
 ---
 
-This page highlights selected articles, commentary, and media coverage of my research.
-
-## Articles and commentary
+## <i class="bi bi-pencil-square"></i> Articles and commentary
 
 ::: {.grid}
 
@@ -34,7 +33,7 @@ July 2025
 
 ---
 
-## Media coverage of my research
+## <i class="bi bi-newspaper"></i> Media coverage of my research
 
 ::: {.grid}
 

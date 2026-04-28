@@ -1,35 +1,64 @@
 ---
-title: "Omid Ghasemi"
-subtitle: "Lecturer<br>UNSW Institute for Climate Risk & Response<br>University of New South Wales"
-about:
-  template: jolla
-  image: images/headshots/headshot.png
-# title-block-banner: "#CF4446"
-# format:
-#   html:
-#     quarto-template-params:
-#       banner-header-class: "home"
----
-<!-- 
-::: {.full-width}
+title: "Welcome to my page"
+title-block-banner: true
 
-::: {.grid .align-items-center}
+about:
+  template: marquee
+  links:
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en
+      target: _blank
+
+    - icon: linkedin
+      href: https://www.linkedin.com/in/omid-ghasemi-a55584338/
+      target: _blank
+
+    - text: "{{< ai osf >}}"
+      href: https://osf.io/kxf7p/
+      target: _blank
+
+    - icon: twitter
+      href: https://x.com/Omid_Ghasemi21
+      target: _blank
+
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Omid-Ghasemi-5?ev=hdr_xprf
+      target: _blank
+
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0001-7511-5580
+      target: _blank
+
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/omidghasemi.bsky.social
+      target: _blank
+
+    - icon: mortarboard
+      href: https://www.unsw.edu.au/staff/omid-ghasemi
+      target: _blank
+
+    - icon: github
+      href: https://github.com/OmidGhasemi21
+      target: _blank
+---
+
+::: {.grid .align-items-start}
 
 ::: {.g-col-12 .g-col-md-5}
-![](images/headshot.png){.img-fluid style="border-radius: 6px; width: 100%;"}
+
+![](images/headshots/headshot.png){.img-fluid style="border-radius: 6px; width: 100%;"}
+
+
 :::
 
-::: {.g-col-12 .g-col-md-7 style="text-align: left; font-size: 1.1em; line-height: 1.6;"}
--->
-I am a Lecturer at the [UNSW Institute for Climate Risk & Response (ICRR)](https://www.unsw.edu.au/research/icrr) at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/staff/omid-ghasemi). I am a behavioural scientist studying how people reason, form beliefs, and make decisions in complex, real-world contexts.
+::: {.g-col-12 .g-col-md-7 .intro-text}
+
+Hi, I am Omid Ghasemi. I am a Lecturer at the [UNSW Institute for Climate Risk & Response (ICRR)](https://www.unsw.edu.au/research/icrr) at the [University of New South Wales (UNSW)](https://www.unsw.edu.au/staff/omid-ghasemi). I am a behavioural scientist studying how people reason, form beliefs, and make decisions in complex, real-world contexts.
 
 My work focuses on judgment and decision-making, with applications in climate change, public policy, and science communication. I’m particularly interested in how people interpret information about risks and policies, how experiences shape beliefs, and why gaps often emerge between expert assessments and public perceptions.
 
 I use behavioural experiments, large-scale surveys, and longitudinal data, often combined with real-world datasets, to better understand how people think and act outside the lab.
-<!-- 
-:::
 
 :::
 
 :::
--->

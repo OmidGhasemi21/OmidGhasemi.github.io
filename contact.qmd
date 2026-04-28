@@ -1,94 +1,31 @@
 ---
 title: "Contact"
-about:
-  template: jolla
-  # links:
-    # 
-    # - icon: github
-    #   text: GitHub
-    #   href: "https://github.com/OmidGhasemi21"
-    #   target: "_blank"
-    #   
-    # - text: "<img src='images/icons/googlescholar.png' style='height:22px; vertical-align:middle;'> Google Scholar"
-    #   href: "https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en"
-    #   target: "_blank"
-    #   
-    # - icon: linkedin
-    #   text: LinkedIn
-    #   href: "https://www.linkedin.com/in/omid-ghasemi-a55584338/"
-    #   target: "_blank"
-    #   
-    # - text: "<img src='images/icons/osf.png' style='height:25px; vertical-align:middle;'> OSF"
-    #   href: "https://osf.io/kxf7p/"
-    #   target: "_blank"
-    #   
-    # - icon: bi-twitter-x
-    #   text: X (Twitter)
-    #   href: "https://x.com/Omid_Ghasemi21"
-    #   target: "_blank"
-    #   
-    # - icon: mortarboard
-    #   text: UNSW
-    #   href: "https://www.unsw.edu.au/staff/omid-ghasemi"
-    #   target: "_blank"
+title-block-banner: true
 ---
 
-## Get in touch
+## <i class="bi bi-chat-dots"></i> Get in touch
 
-For general inquiries, research collaborations, media requests, consultation, or guest lecturing, you can email me at 
-<span class="contact-email">
-  <a href="mailto:omidreza.ghasemi21@gmail.com">
-    omidreza.ghasemi21@gmail.com
-  </a>
-</span>
-
+For general inquiries, research collaborations, media requests, consultation, or guest lecturing, you can email me at [ <a href="mailto:omidreza.ghasemi21@gmail.com"> omidreza.ghasemi21\@gmail.com </a> ]{.contact-email}
 
 You can also find me on:
 
-<div class="contact-links">
+::: contact-links
+<a href="https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en" target="_blank"> <i class="ai ai-google-scholar" style="font-size:1.2em;"></i> Google Scholar </a>
 
-<a href="https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en" target="_blank">
-  <i class="ai ai-google-scholar" style="font-size:1.2em;"></i> Google Scholar
-</a>
+<a href="https://www.linkedin.com/in/omid-ghasemi-a55584338/" target="_blank"> <i class="bi bi-linkedin"></i> LinkedIn </a>
 
-<a href="https://www.linkedin.com/in/omid-ghasemi-a55584338/" target="_blank">
-  <i class="bi bi-linkedin"></i> LinkedIn
-</a>
+<a href="https://osf.io/kxf7p/" target="_blank"> <i class="ai ai-osf" style="font-size:1.2em;"></i> OSF </a>
 
-<a href="https://osf.io/kxf7p/" target="_blank">
-  <i class="ai ai-osf" style="font-size:1.2em;"></i> OSF
-</a>
+<a href="https://x.com/Omid_Ghasemi21" target="_blank"> <i class="bi bi-twitter"></i> X </a>
 
-<a href="https://x.com/Omid_Ghasemi21" target="_blank">
-  <i class="bi bi-twitter"></i> X
-</a>
+<a href="https://www.researchgate.net/profile/Omid-Ghasemi-5?ev=hdr_xprf" target="_blank"> <i class="ai ai-researchgate" style="font-size:1.2em;"></i> ResearchGate </a>
 
+<a href="https://orcid.org/0000-0001-7511-5580" target="_blank"> <i class="ai ai-orcid" style="font-size:1.2em;"></i> ORCID </a>
 
-<a href="https://www.researchgate.net/profile/Omid-Ghasemi-5?ev=hdr_xprf" target="_blank">
-  <i class="ai ai-researchgate" style="font-size:1.2em;"></i> ResearchGate
-</a>
+<a href="https://bsky.app/profile/omidghasemi.bsky.social" target="_blank"> {{< fa brands bluesky >}}</i> Bluesky </a>
 
-<a href="https://orcid.org/0000-0001-7511-5580" target="_blank">
-  <i class="ai ai-orcid" style="font-size:1.2em;"></i> ORCID
-</a>
+<a href="https://www.unsw.edu.au/staff/omid-ghasemi" target="_blank"> <i class="bi bi-mortarboard"></i> UNSW </a>
 
-<a href="https://bsky.app/profile/omidghasemi.bsky.social" target="_blank">
-  {{< fa brands bluesky >}}</i> Bluesky
-</a>
+<a href="https://github.com/OmidGhasemi21" target="_blank"> <i class="bi bi-github"></i> GitHub </a>
+:::
 
-<a href="https://www.unsw.edu.au/staff/omid-ghasemi" target="_blank">
-  <i class="bi bi-mortarboard"></i> UNSW
-</a>
-
-<a href="https://github.com/OmidGhasemi21" target="_blank">
-  <i class="bi bi-github"></i> GitHub
-</a>
-
-</div>
-<!--
-- <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/omid-ghasemi-a55584338/)
-- <i class="bi bi-google"></i> [Google Scholar](https://scholar.google.com.au/citations?user=LyL_5s8AAAAJ&hl=en)
-- <i class="bi bi-globe"></i> [OSF](https://osf.io/kxf7p/)
-- <i class="bi bi-twitter-x"></i> [X (Twitter)](https://x.com/Omid_Ghasemi21)
-
--->

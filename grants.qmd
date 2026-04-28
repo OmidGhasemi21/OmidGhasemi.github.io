@@ -1,10 +1,10 @@
 ---
 title: "Grants & Awards"
+title-block-banner: true
 ---
 
-This page highlights selected competitive funding, grants, and awards supporting my research and academic work.
 
-## Competitive research funding
+## <i class="bi bi-lightbulb"></i> Research grants and funding
 
 
 ::: {.g-col-12 .g-col-md-6}
@@ -42,7 +42,7 @@ $2,000
 
 
 
-## Awards and honours
+## <i class="bi bi-trophy"></i> Awards and honours
 
 ::: {.g-col-12 .g-col-md-6}
 **2024 · Commonwealth Bank Hackathon (Winner)**  
@@ -80,7 +80,7 @@ PhD Excellence
 
 
 
-## Scholarships and additional awards
+## <i class="bi bi-mortarboard"></i> Scholarships and awards
 
 ::: {.g-col-12 .g-col-md-6}
 **2019 · Interdisciplinary Meta-Research and Open Science (AIMOS) Travel Award**  

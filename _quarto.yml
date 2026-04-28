@@ -3,7 +3,9 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://omidghasemi21.github.io/OmidGhasemi.github.io"
   title: "Omid Ghasemi"
+  description: "Behavioural scientist at UNSW studying judgment, decision-making, and climate change"
   favicon: images/icons/favicon.png
   google-analytics: "G-4R2R0VNNTY"
   
