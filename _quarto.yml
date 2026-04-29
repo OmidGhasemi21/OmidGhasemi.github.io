@@ -16,10 +16,11 @@ website:
     
     
     left:
-      # - href: index.qmd
-      #  text: " "
-      #  icon: house-door-fill
+      - href: index.qmd
+        text: " "
+        icon: house-door-fill
       - research.qmd
+      - talks.qmd
       - grants.qmd
       - media.qmd
       - contact.qmd

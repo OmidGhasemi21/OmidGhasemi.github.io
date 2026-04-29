@@ -1,5 +1,6 @@
 ---
 title: "Grants & Awards"
+pagetitle: "Grants | Omid Ghasemi"
 title-block-banner: true
 ---
 

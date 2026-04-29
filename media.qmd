@@ -1,5 +1,6 @@
 ---
 title: "Media"
+pagetitle: "Media | Omid Ghasemi"
 title-block-banner: true
 ---
 

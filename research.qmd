@@ -1,5 +1,6 @@
 ---
 title: "Research"
+pagetitle: "Research | Omid Ghasemi"
 title-block-banner: true
 ---
 
@@ -9,9 +10,9 @@ title-block-banner: true
 
 ### Working papers
 
-**Ghasemi, O.**, Pass, K., Bradley, G., Deshpande, S., Ransom, C., & Newell, B. (under review). Do personal climate actions crowd out collective action and policy support? Evidence from a longitudinal study. [Link](link){target="_blank"}
+- **Ghasemi, O.**, Pass, K., Bradley, G., Deshpande, S., Ransom, C., & Newell, B. (under review). Do personal climate actions crowd out collective action and policy support? Evidence from a longitudinal study. [Link](link){target="_blank"}
 
-**Ghasemi, O.**, Ghane-Ezabadi, A., Hojjat, R., Afshin Mahjoub, M., Arastouy Irani, T., Gholampour, E., Solhirad, M., & Newell, B. (under review). People are aware of the impact of defaults and use them strategically. [Link](link){target="_blank"}
+- **Ghasemi, O.**, Ghane-Ezabadi, A., Hojjat, R., Afshin Mahjoub, M., Arastouy Irani, T., Gholampour, E., Solhirad, M., & Newell, B. (under review). People are aware of the impact of defaults and use them strategically. [Link](link){target="_blank"}
 
 **Ghasemi, O.**, & Newell, B. (in preparation). Evaluating the impact of climate risk scores on property purchase decisions. [Link](link){target="_blank"}
 
@@ -107,54 +108,3 @@ Tierney, W., et al. (2021). A creative destruction approach to replication. Jour
 
 Amirbeigi, M., Sarafraz, M. R., **Ghasemi, O.**, & Firouzabadi, A. (2021). The mediating role of self-knowledge processes. Journal of Applied Psychological Research. [Link](link){target="_blank"}
 
-
-
----
-
-## <i class="bi bi-mic"></i> Talks, keynotes, and presentations
-
-Understanding how people respond to climate risks in the real world. Online seminar hosted by the Institute for the Public Understanding of Risk (IPUR), National University of Singapore.
-
-Emotional cost of climate change. Invited keynote presentation given at the Net Zero Next Gen Assembly, University of Sydney, Australia.
-
-Individual and systemic climate solutions: Conflict or complement? Presentation given at A National Interdisciplinary Conversation on the Environment, University of Queensland, Australia.
-
-Do individual climate actions come at the expense of support for systemic policies? Presentation given at the ICRR Early Career Workshop.
-
-Political drivers of public trust in climate scientists versus general scientists: Evidence from 68 countries. Presentation given at the Conference on Communication and Environment, University of Tasmania, Hobart, Australia.
-
-Global trust in scientists and climate scientists: Patterns and predictors from 68 countries. Presentation given at the Experimental Psychology Conference, Sydney, Australia (symposium: Psychological Science and the Climate Challenge).
-
-Challenging the notion of default neglect in decision-making. Presentation given at the Experimental Psychology Conference, Sydney, Australia.
-
-Ten years of extreme weather events and their influence on climate beliefs and behaviours across Australia. Presentation given at the European Geosciences Union General Assembly, Vienna, Austria.
-
-Examining the trust gap between climate scientists and general scientists across 68 countries. Presentation given at the ICRR Early Career Workshop.
-
-Understanding sensitivity to information leakage in attribute framing. Presentation given at the International Conference on Thinking (ICT), University of Milano-Bicocca, Milan, Italy.
-
-Logic or heuristic? Examining the source of intuitive inferences. Presentation given at the International Conference on Thinking (ICT), University of Milano-Bicocca, Milan, Italy.
-
-Does cognitive reflection predict belief in God? A cross-cultural test of three hypotheses. Presentation given at the International Association for the Cognitive and Evolutionary Sciences of Religion (IACESR), University of Oxford, United Kingdom.
-
-Gods and cognition: Cognitive reflection predicts disbelief in God across 19 countries. Presentation given at the Atheism Explained Conference, Oxford Natural History Museum, United Kingdom.
-
-Evaluating the impact of climate risk scores on property purchase decisions. Presentation given at the Risk Quotient Conference, Melbourne, Australia.
-
-Exploring the rationality of the framing effect. Presentation given at the Australasian Society for Philosophy and Psychology (ASPP), Canberra, Australia.
-
-Reframing the framing effect: The importance of information leakage. Presentation given at the Australian Experimental Psychology Conference (EPC), Canberra, Australia.
-
-The impact of training on logic-based and belief-based reasoning. Presentation given at the Sydney Postgraduate Psychology Conference (SPPC), Sydney, Australia.
-
-Do statistical rules interfere with political beliefs? Presentation given at the University of Western Australia, Perth, Australia.
-
-Logical intuitions are not really about logic. Presentation given at the Australasian Society for Philosophy and Psychology (ASPP), Brisbane, Australia.
-
-Intuitive and deliberative logic: Individual differences. Symposium presentation at the International Conference on Thinking (ICT), Paris, France.
-
-Detecting a conflict when there is none. Presentation given at the Australian Experimental Psychology Conference (EPC), Brisbane, Australia.
-
-Open science and the replication crisis. Invited talk at Tehran University of Medical Sciences.
-
-Individual differences in logical intuitions. Poster presented at HDR FIESTA, Macquarie University, Sydney, Australia.

@@ -1,5 +1,6 @@
 ---
 title: "Hello there!"
+pagetitle: "Home | Omid Ghasemi"
 title-block-banner: true
 
 about:
