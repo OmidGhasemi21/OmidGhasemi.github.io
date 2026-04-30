@@ -9,37 +9,37 @@ title-block-banner: true
 
 
 ::: {.g-col-12 .g-col-md-6}
-**2024 · W. H. Gladstone Population and Environment Fund Grant** *(Principal Investigator)*  
+- **2024 · W. H. Gladstone Population and Environment Fund Grant** *(Principal Investigator)*  
 [Exploring the impact of extreme weather events on attitudes, emotions, and behavioural responses to climate change](https://science.org.au/news-events/news-views/2025-wh-gladstones-research-project-explores-behavioural-responses-climate-change?fbclid=IwY2xjawRb0pBleHRuA2FlbQIxMABicmlkETFEem1LNkY5NlI3NEdOMjE3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHibBe7e9YfdmGQPAR5Tu9Zj9sPOVgoMvWXcTPyiXmf1ugZiTKtB64-Rt1gJH_aem_ruoCMpPg3DUiRbPkmjqCZg){target="_blank"}  
 $24,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2024 · UNSW Digital Grid Seed Funding Scheme** *(Principal Investigator)*  
+- **2024 · UNSW Digital Grid Seed Funding Scheme** *(Principal Investigator)*  
 [Exploring pro-environmental behaviour’s influence on energy transition and policy support](https://www.dgfi.unsw.edu.au/2024-seed-funding-recipients-announced){target="_blank"}  
 $10,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2023 · ICRR Collaboration Seed Funding Scheme** *(Co-Principal Investigator)*  
+- **2023 · ICRR Collaboration Seed Funding Scheme** *(Co-Principal Investigator)*  
 [Extreme weather events and pro-environmental beliefs in Australia](https://www.unsw.edu.au/research/icrr/research/seed-funding){target="_blank"}  
 $20,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2023 · UNSW Science ECAN Small Seed Grant Scheme** *(Co-Principal Investigator)*  
+- **2023 · UNSW Science ECAN Small Seed Grant Scheme** *(Co-Principal Investigator)*  
 $2,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2021 · Macquarie University Postgraduate Research Fund**  
+- **2021 · Macquarie University Postgraduate Research Fund**  
 $3,000
 :::
 
 
 
 ::: {.g-col-12 .g-col-md-6}
-**2020 · Gorilla Grant Award** 
+- **2020 · Gorilla Grant Award** 
 $225
 :::
 
@@ -47,35 +47,35 @@ $225
 ## <i class="bi bi-trophy"></i> Awards and honours
 
 ::: {.g-col-12 .g-col-md-6}
-**2024 · Commonwealth Bank Hackathon (Winner)**  
+- **2024 · Commonwealth Bank Hackathon (Winner)**  
 [Behavioural Science for Climate Action](https://www.unsw.edu.au/news/2024/04/how-to-harness-human-behaviour-for-climate-action){target="_blank"}  
 $5,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2024 · Ramy Razavian Dean’s Award**  
+- **2024 · Ramy Razavian Dean’s Award**  
 Excellence in Higher Degree Research  
 $500
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2024 · Second Best Presentation Award**  
+- **2024 · Second Best Presentation Award**  
 [ICRR Early Career Research Workshop](https://www.unsw.edu.au/news/2024/10/icrr-six-early-career-researchers-climate-challenges){target="_blank"}
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2023 · Australian Psychological Society Award**  
+- **2023 · Australian Psychological Society Award**  
 [Award for Excellent PhD Thesis in Psychology](https://psychology.org.au/about-us/what-we-do/awards/aps-major-awards/2023-major-award-winners/omidreza-ghasemi){target="_blank"}  
 $1,000
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2023 · Doris McIlwain Award**  
+- **2023 · Doris McIlwain Award**  
 Most meritorious PhD thesis, Macquarie University
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2023 · Vice-Chancellor’s Commendation**  
+- **2023 · Vice-Chancellor’s Commendation**  
 PhD Excellence
 :::
 
@@ -85,22 +85,22 @@ PhD Excellence
 ## <i class="bi bi-mortarboard"></i> Scholarships and awards
 
 ::: {.g-col-12 .g-col-md-6}
-**2019 · Interdisciplinary Meta-Research and Open Science (AIMOS) Travel Award**  
+- **2019 · Interdisciplinary Meta-Research and Open Science (AIMOS) Travel Award**  
 $680
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2019 · Complex Human Data Summer School (CHDSS) Travel Award**  
+- **2019 · Complex Human Data Summer School (CHDSS) Travel Award**  
 $500
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2020 · repliCATS Workshop Award**  
+- **2020 · repliCATS Workshop Award**  
 $500
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-**2020 · COS-SCORE Data Finder Award**  
+- **2020 · COS-SCORE Data Finder Award**  
 $2,000
 :::
 
