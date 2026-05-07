@@ -20,6 +20,7 @@ website:
         text: " "
         icon: house-door-fill
       - research.qmd
+      - publications.qmd
       - talks.qmd
       - grants.qmd
       - media.qmd
